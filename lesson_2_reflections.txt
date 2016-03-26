@@ -4,4 +4,19 @@ An empty repository is made and no files are being tracked. You need to establis
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is not being tracked yet, but it is marking files to be tracked. It allows you to visualize which files are going to be tracked and which are not.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can look at what files were changed and compare them to the previous commit to make sure you aren't making too many changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would help you separate experimental versions and tests from a working version of the code.
+
+How do the diagrams help you visualize the branch structure?
+They allow me to see the history and at which commits branches were created.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When you merge to branches successfully you get a combination of the two branches. The files will be modified to include changes from both.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Git's automatic merging cam make merging very quick, but it can get stuck if there are changes to the same region of code. Manual ensures that their are no conflicts, but you could make mistakes.
+
 
