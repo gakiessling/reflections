@@ -12,4 +12,7 @@ Branches allow you to take a different path with your repository, but are differ
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you are going to be offline for some time but want to work with the latest changes you can use the local copy of the remote to do that.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+There would be a lot of manual effort involved in keeping everyone up to date. I might would use something like google docs, but that would probably be difficult too.
+
 
