@@ -9,4 +9,7 @@ Forks exist on GitHub only and would be used to quickly create a clone of anothe
 Clones can exist both locally and on GitHub. You would use a clone to get a copy of work on your machine or another location.
 Branches allow you to take a different path with your repository, but are different from a clone because a clone is a copy of the entire repository. Branches can let you experiment with changes.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you are going to be offline for some time but want to work with the latest changes you can use the local copy of the remote to do that.
+
 
