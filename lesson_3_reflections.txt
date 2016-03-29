@@ -15,4 +15,6 @@ If you are going to be offline for some time but want to work with the latest ch
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 There would be a lot of manual effort involved in keeping everyone up to date. I might would use something like google docs, but that would probably be difficult too.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would want to use a new branch for experimental stuff or if you're collaborating with others and don't know how it'll affect them. Working directly on the master is more straightforward,
+but may not be a good idea if working with others.
